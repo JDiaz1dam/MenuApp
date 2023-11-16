@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MenuApp</string>
+    <string name="boton1">Abrir otra Activity</string>
+    <string name="boton2">Mostrar Toast</string>
+    <string name="boton3">Mostrar un snackbar</string>
+    <string name="boton4">Cerrar App</string>
+    <string name="boton5">Mostrar/Ocultar un texto</string>
+
+</resources>
